@@ -5,29 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76981c77-24b5-4291-a7bc-9b8c15a83525" name="Changes" comment="Final Sprint 1">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n1exercici1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n1exercici1/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n1exercici2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n1exercici2/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n1exercici3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n1exercici3/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n1exercici4/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n1exercici4/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n1exercici5/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n1exercici5/src/main/java/org/example/InterfacePi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n1exercici5/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n1exercici6/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n1exercici6/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n1exercici7/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n1exercici7/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n1exercici8/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n1exercici8/src/main/java/org/example/FunctionalInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n1exercici8/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n1exercici6/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/n1exercici6/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n1exercici7/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/n1exercici7/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n1exercici8/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/n1exercici8/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,10 +38,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "18"
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "C:/Users/formacio/Desktop/JC/Tasca_S1_08_Joan_Caballero"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.org.example.Main (4)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="n1exercici8" />
@@ -128,9 +110,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.org.example.Main" />
         <item itemvalue="Application.org.example.Main (4)" />
+        <item itemvalue="Application.org.example.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.org.example.Main (3)" />
         <item itemvalue="Application.org.example.Main (2)" />
       </list>
@@ -145,6 +127,14 @@
       <option name="presentableId" value="Default" />
       <updated>1702283330782</updated>
     </task>
+    <task id="LOCAL-00001" summary="Final Sprint 1">
+      <created>1702293008667</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702293008667</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
